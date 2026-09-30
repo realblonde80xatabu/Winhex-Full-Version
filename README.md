@@ -240,4 +240,4 @@ This repository serves as the official landing page for WinHex. The software is 
 **Get the most recent version of WinHex today!**
 
 ---
-**Last updated:** 2026-09-30 03:25:58 UTC
+**Last updated:** 2026-09-30 10:10:57 UTC
